@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [RibbonForm1.cs](./CS/RibbonForm1.cs) (VB: [RibbonForm1.vb](./VB/RibbonForm1.vb))
+<!-- default file list end -->
 # How to merge End-User Designer Ribbon to the MDI parent form Ribbon
 
 
